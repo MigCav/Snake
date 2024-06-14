@@ -145,7 +145,7 @@ while True:
             serpiente.direction = "stop"
             marcador = 0
             texto.clear()
-            texto.write(f"Marcador:{marcador} \t Marcamos mas alto:{marcador_alto}", align="center", font="verdana")
+            texto.write(f"Marcador:{marcador} \t Marcador mas alto:{marcador_alto}", align="center", font="verdana")
 
 
 
